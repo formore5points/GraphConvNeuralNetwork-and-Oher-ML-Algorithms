@@ -1,4 +1,4 @@
-# TextClassification using GraphConvNeuralNetwork-and-Oher-ML-Algorithms
+# TextClassification using GraphConvNeuralNetwork-and-Other-ML-Algorithms
 Text classification using Graph Convolutional Neural Network and other Machine Learning Algorithms (Graph Theory Term Project)
 
 # INTRODUCTION
